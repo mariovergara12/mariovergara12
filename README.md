@@ -6,3 +6,7 @@ My goal is to master the fundamentals of C/C++ and computer architecture to crea
 ## Contact Info
 - Email: marioavergara322@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mario-vergara-93a283218/
+
+## Programming Languages
+- C/C++
+- Python (learning)
