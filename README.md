@@ -10,3 +10,5 @@ My goal is to master the fundamentals of C/C++ and computer architecture to crea
 ## Programming Languages
 - C/C++
 - Python (learning)
+- OCaml (learning)
+- Haskell (learning)
